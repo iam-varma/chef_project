@@ -1,1 +1,2 @@
 # chef_project
+This configuration management method enables simultaneous installation of Tomcat on multiple servers with just one click. Additionally, it supports deploying applications on servers, contingent on the availability of a WAR file. This project, akin to the Ansible project I've completed, operates on a pull-based mechanism, offering distinct functionality. To experiment, copy and paste this into your cookbooks, ensuring data updates.
